@@ -6,15 +6,15 @@ console.log(146464665656);
 
 console.log(8+7-13);
 
-console.log("5"+6*10*4)
+console.log("5"+6*10*4);
 
 ///simpan kotak penyimpanan
 
 const harga = 8000;
 const jumlah= 5;
-console.log(harga)
-console.log(jumlah)
-console.log( harga * jumlah)
+console.log(harga);
+console.log(jumlah);
+console.log( harga * jumlah);
 
 //kotak yang isinya boleh di ganti
 
